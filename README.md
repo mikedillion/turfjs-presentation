@@ -12,7 +12,7 @@ Each of the markdown files loaded into `index.html` using the [markdown plugin](
 In order for the files to be found, serve the directory up behind a simple http service like Rack.
 
 ```
-bundle
+bundle install
 rackup
 ```
 
